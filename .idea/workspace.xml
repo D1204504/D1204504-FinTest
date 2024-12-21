@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe57d05d-87ee-4b2a-aaa5-e7cf8d17cd03" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam109_2/resources/COVID.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam109_2/resources/COVIDTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam109_2/resources/DateTransformation.java" beforeDir="false" />
@@ -257,14 +259,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/IECS-Gym" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2qUZjlTakDBXLm1UVTfbWC4QIU6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -277,6 +279,7 @@
     "Maven.Fitclub [clean].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "nodejs_package_manager_path": "npm",
@@ -292,6 +295,7 @@
       <option name="presentableId" value="Default" />
       <updated>1734719258173</updated>
       <workItem from="1734719263763" duration="160000" />
+      <workItem from="1734745449829" duration="128000" />
     </task>
     <servers />
   </component>
