@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe57d05d-87ee-4b2a-aaa5-e7cf8d17cd03" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam109_2/resources/COVID.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam109_2/resources/COVIDTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam109_2/resources/DateTransformation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam109_2/resources/DateTransformationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam109_2/resources/Grade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam109_2/resources/GradeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam109_2/resources/WhiteBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam109_2/resources/WhiteBoxTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/question.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/discussion.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q01/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q01/afterPmd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q01/logs/log.log.2024-11-05" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q01/logs/log.log.2024-11-06" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q01/logs/log.log.2024-11-08" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q01/logs/log.log.2024-11-12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q01/originPmd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q01/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q01/src/main/java/org/example/CounterMLB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q01/src/main/resources/Data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q01/src/main/resources/Data.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q01/src/main/resources/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q01/src/main/resources/pmd/pmd_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q01/src/test/java/org/example/CounterMLBTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q01/軟體測試期中考_1 .pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q02/logs/error.log.2024-11-05" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q02/logs/log.log.2024-11-05" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q02/logs/log.log.2024-11-06" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q02/logs/log.log.2024-11-08" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q02/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q02/src/main/java/org/example/USAElection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q02/src/main/java/org/example/ticketData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q02/src/main/resources/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q02/src/main/resources/pmd/pmd_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q02/src/main/resources/votes2020.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q02/src/main/resources/votes2020_Biden_Split.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q02/src/main/resources/votes2020_NoWinner.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q02/src/main/resources/votes2020_Trump_Align.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q02/src/main/resources/votes2020_Trump_Split.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q02/src/main/resources/votes2020_occur_state_same_votes.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q02/src/main/resources/votes2020_probability_bigger_plus1_bigger1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q02/src/main/resources/votes2020_probability_bigger_plus1_same.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q02/src/test/java/org/example/USAElectionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/ref_solution/q02/軟體測試期中考_2 .pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/resources/USAElection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/resources/USAElectionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/resources/votes2020.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/exam113_1/votes2020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/examAll/examAll.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/hw113_1/hw113_1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/hw113_1/hw113_1_dis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/hw113_1/img/2024-MLB-Map.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/hw113_1/img/ball_motion.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/hw113_1/img/mlb_2034_postseason.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/hw113_1/img/mlb_postseason-2024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/hw113_1/img/postseason-pic-2023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/HW_EXAMS/hw113_1/img/zone_chart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoCucumberBMI/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoCucumberBMI/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoCucumberBMI/src/test/java/bmi/BMICalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoCucumberBMI/src/test/java/bmi/BMICalculatorVisibleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoCucumberBMI/src/test/java/bmi/cucumber/BMICalculatorStepDefs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoCucumberBMI/src/test/resources/features/bmi_calculation.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoCucumberBMI/src/test/resources/features/using_outline.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoDebug/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoDebug/src/main/java/demo/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoDebug/src/main/java/demo/GCD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoDebug/src/main/java/demo/LowestCommonAncestor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoDebug/src/main/java/demo/Sin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoDebug/src/main/java/xdemo/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoDebug/src/main/java/xdemo/GCD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoDebug/src/main/java/xdemo/LowestCommonAncestor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoDebug/src/main/java/xdemo/Sin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoInspection/DemoCucumber/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoInspection/DemoCucumber/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoInspection/DemoCucumber/src/test/java/CucumberJava/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoInspection/DemoCucumber/src/test/java/CucumberJava/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoInspection/DemoCucumber/src/test/java/CucumberJava/Register.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoInspection/DemoCucumber/src/test/java/CucumberJava/RunTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoInspection/DemoCucumber/src/test/resources/features/Login.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoInspection/DemoCucumber/src/test/resources/features/Register.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoInspection/DemoCucumber/src/test/resources/features/Shopping.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoInspection/DemoCucumber/temp/Register.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoInspection/DemoCucumber/temp/Shopping.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoInspection/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoInspection/src/main/java/demo/RobustBubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoInspection/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoInspection/src/main/java/org/example/RobustBubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoInspection/src/main/java/xdemo/ExceptionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoInspection/src/main/java/xdemo/LoggingExample02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoInspection/src/main/java/xdemo/MedalReader03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoInspection/src/main/java/xdemo/People.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoInspection/src/main/java/xdemo/RobustBubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoInspection/src/main/java/xdemo/Triangle02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoInspection/src/main/resources/rule_set.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/java/demo/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/java/demo/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/java/demo/LoanCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/java/demo/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/java/demo/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/java/demo/param/MathUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/java/demo/state/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/java/demo/state/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/java/xdemo/LowestCommonAncestor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/java/xdemo/MaxHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/java/xdemo/MyDate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/java/xdemo/People.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/java/xdemo/RobustBubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/java/xdemo/SwimmingPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/java/xdemo/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/resources/img/australia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/resources/img/azerbaijan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/resources/img/banner01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/resources/img/banner02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/resources/img/belgium.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/resources/img/brazil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/resources/img/canada.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/resources/img/china.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/resources/img/france.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/resources/img/germany.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/resources/img/great-britain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/resources/img/hong-kong.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/resources/img/india.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/resources/img/italy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/resources/img/japan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/resources/img/kazakhstan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/resources/img/moldova.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/resources/img/republic-of-korea.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/resources/img/skorea.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/resources/img/south-africa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/resources/img/sweden.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/resources/img/taiwan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/resources/img/turkey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/resources/img/united-states.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/main/resources/medals.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/test/java/GradeAverage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/test/java/demo/AssertionsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/test/java/demo/BinarySearchTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/test/java/demo/CalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/test/java/demo/DisplayNameGeneratorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/test/java/demo/DisplayNameTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/test/java/demo/LoanCalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/test/java/demo/TriangleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/test/java/demo/param/ParamDemoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/test/java/demo/param/ParamEnumDemoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/test/java/demo/param/StringUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/test/java/demo/state/PlayerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/test/java/demo/state/StackTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/test/java/xdemo/MyDateTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/test/java/xdemo/PeopleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/test/java/xdemo/RobustBubbleSortTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/test/resources/two-columns.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoJunit/src/test/resources/votes2020.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoMokito/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoMokito/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoMokito/src/main/java/demo/calculator/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoMokito/src/main/java/demo/calculator/CalculatorService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoMokito/src/main/java/demo/calculator/RealCalculatorService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoMokito/src/main/java/demo/prime/MockPrimeChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoMokito/src/main/java/demo/prime/Prime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoMokito/src/main/java/demo/prime/PrimeChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoMokito/src/main/java/demo/prime/RealPrimeChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoMokito/src/main/java/demo/stock/Market.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoMokito/src/main/java/demo/stock/Stock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoMokito/src/main/java/demo/stock/StockService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoMokito/src/test/java/demo/calculator/CalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoMokito/src/test/java/demo/calculator/RealCalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoMokito/src/test/java/demo/prime/PrimePlusTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoMokito/src/test/java/demo/prime/PrimeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoMokito/src/test/java/demo/stock/MarketTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoMutation/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoMutation/src/main/java/demo/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoMutation/src/main/java/demo/BinarySearchTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoMutation/src/main/java/demo/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoMutation/src/main/java/demo/TriangleMuTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoMutation/src/main/java/demo/mutant/BinarySearch02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoMutation/src/main/java/demo/mutant/BinarySearch03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoMutation/src/main/java/demo/mutant/Triangle02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoMutation/src/main/java/demo/mutant/Triangle03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoMutation/src/main/java/demo/mutant/Triangle04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoPreventive/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoPreventive/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoPreventive/src/main/java/demo/ExceptionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoPreventive/src/main/java/demo/LoggingExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoPreventive/src/main/java/demo/LoggingExample02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoPreventive/src/main/java/demo/MaxHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoPreventive/src/main/java/demo/MedalReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoPreventive/src/main/java/demo/MedalReader02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoPreventive/src/main/java/demo/MedalReader03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoPreventive/src/main/java/demo/People.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoPreventive/src/main/java/demo/RobustBubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoPreventive/src/main/java/demo/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoPreventive/src/main/java/demo/Triangle02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoPreventive/src/main/java/xdemo/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoPreventive/src/main/java/xdemo/LowestCommonAncestor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoPreventive/src/main/java/xdemo/MaxHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoPreventive/src/main/java/xdemo/MedalReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoPreventive/src/main/java/xdemo/People.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoPreventive/src/main/java/xdemo/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoPreventive/src/main/resources/medals.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoWebTesting/src/test/java/bmi/BMICalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoWebTesting/src/test/java/bmi/BMICalculatorVisibleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/DemoWebTesting/src/test/resources/bmi.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/Mutation4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/Mutation4/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/Mutation4/src/main/java/demo/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/Mutation4/src/main/java/demo/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/Mutation4/src/test/java/demo/BinarySearchTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/Intellij/Mutation4/src/test/java/demo/TriangleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/img/calculate_metrics.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/img/complexity_metrics.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/img/junit_life_cycle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/img/mutationCoverage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/u01_debug/_lab_debug.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/u01_debug/intro_pom.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/u02_preventive/lab_assert.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/u02_preventive/lab_exception.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/u02_preventive/lab_log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/u03_inspection/intro_pmd.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/u04_utest/code/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/u04_utest/code/BreakpointTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/u04_utest/code/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/u04_utest/code/ExceptionDemoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/u04_utest/code/Infix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/u04_utest/code/JUnitDemo02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/u04_utest/code/Sin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/u04_utest/code/SinTest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/u04_utest/code/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/u04_utest/code/TriangleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/u04_utest/img/cal_coverage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/u04_utest/img/calculator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/u04_utest/img/demojunit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/u04_utest/img/site.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/u04_utest/intro_junit.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/u04_utest/metrics.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/u04_utest/mutation_test.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/u04_utest/whitebox_test.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/u05_integration/mokito.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/u09_web_testing/bmi.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/u09_web_testing/bmi_cucumber.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/u09_web_testing/bmi_selenium.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/u09_web_testing/intro_BDD.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IECS-Gym/lab/u10_devops/using_git.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/IECS-Gym" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2qUZjlTakDBXLm1UVTfbWC4QIU6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.DemoCucumberGym [clean].executor": "Run",
+    "Maven.DemoWebTesting [clean].executor": "Run",
+    "Maven.Fitclub [clean].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe57d05d-87ee-4b2a-aaa5-e7cf8d17cd03" name="Changes" comment="" />
+      <created>1734719258173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734719258173</updated>
+      <workItem from="1734719263763" duration="160000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
